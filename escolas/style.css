@@ -1,0 +1,18 @@
+iframe{
+border-radius:40px;
+}
+a.main-button-slider{
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 12px 20px;
+    background-color: yellow;
+    text-transform: uppercase;
+    color: black;
+    letter-spacing: 0.25px;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+    font-family: Poppins-Regular;
+    
+}

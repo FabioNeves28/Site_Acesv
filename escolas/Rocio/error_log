@@ -1,0 +1,16 @@
+[18-Jan-2022 13:00:48 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/registro_escola/Antônio_Reis/cad_usuario.php on line 81
+[18-Jan-2022 13:03:06 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[18-Jan-2022 13:04:05 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[18-Jan-2022 13:05:17 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 09:58:22 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 09:59:08 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 09:59:45 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 10:00:44 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 10:04:53 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 10:05:20 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[20-Jan-2022 10:05:35 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[24-Jan-2022 12:18:06 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antônio_Reis/cad_usuario.php on line 81
+[24-Jan-2022 12:18:40 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antonio_Reis/cad_usuario.php on line 81
+[24-Jan-2022 12:19:22 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Antonio_Reis/cad_usuario.php on line 81
+[13-Feb-2022 19:14:43 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Rocio/rocio.php on line 81
+[13-Feb-2022 22:26:06 America/Fortaleza] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home2/acesvc33/public_html/escolas/Rocio/rocio.php on line 81

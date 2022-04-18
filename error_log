@@ -1,0 +1,117 @@
+[06-Dec-2021 19:42:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/acesvc33/public_html/notas.php on line 60
+[06-Dec-2021 19:42:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/acesvc33/public_html/notas.php on line 60
+[06-Dec-2021 19:42:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/acesvc33/public_html/notas.php on line 61
+[06-Dec-2021 19:42:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/acesvc33/public_html/notas.php on line 61
+[06-Dec-2021 19:42:37 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/acesvc33/public_html/notas.php on line 62
+[07-Dec-2021 18:20:59 America/Fortaleza] PHP Warning:  A non-numeric value encountered in /home2/acesvc33/public_html/notas.php on line 67
+[25-Jan-2022 09:36:13 America/Fortaleza] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/valida1.php on line 3
+[25-Jan-2022 09:36:13 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/acesvc33/public_html/valida1.php on line 3
+[25-Jan-2022 09:36:13 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/acesvc33/public_html/valida1.php on line 17
+[25-Jan-2022 09:36:20 America/Fortaleza] PHP Warning:  include_once(conexao.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/valida1.php on line 3
+[25-Jan-2022 09:36:20 America/Fortaleza] PHP Warning:  include_once(): Failed opening 'conexao.php' for inclusion (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/acesvc33/public_html/valida1.php on line 3
+[25-Jan-2022 09:36:20 America/Fortaleza] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home2/acesvc33/public_html/valida1.php on line 17
+[27-Jan-2022 18:40:25 America/Fortaleza] PHP Warning:  require(./lib/vendor/autoload.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:40:25 America/Fortaleza] PHP Warning:  require(./lib/vendor/autoload.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:40:25 America/Fortaleza] PHP Fatal error:  require(): Failed opening required './lib/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:40:34 America/Fortaleza] PHP Warning:  require(./lib/vendor/autoload.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:40:34 America/Fortaleza] PHP Warning:  require(./lib/vendor/autoload.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:40:34 America/Fortaleza] PHP Fatal error:  require(): Failed opening required './lib/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:46:54 America/Fortaleza] PHP Warning:  require(./lib/vendor/autoload.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:46:54 America/Fortaleza] PHP Warning:  require(./lib/vendor/autoload.php): failed to open stream: No such file or directory in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:46:54 America/Fortaleza] PHP Fatal error:  require(): Failed opening required './lib/vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php71/root/usr/share/pear') in /home2/acesvc33/public_html/recuperar_senha.php on line 10
+[27-Jan-2022 18:53:13 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 18:53:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:04:31 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:11:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:11:33 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:12:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:16:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:23:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:27:38 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/recuperar_senha.php on line 167
+[27-Jan-2022 19:27:41 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/recuperar_senha.php on line 167
+[27-Jan-2022 19:31:16 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/recuperar_senha.php on line 167
+[27-Jan-2022 19:38:04 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/recuperar_senha.php on line 167
+[27-Jan-2022 19:38:11 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:39:01 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:39:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:44:35 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:44:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:46:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:49:49 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Jan-2022 19:49:59 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[26-Feb-2022 08:37:10 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/acesvc33/public_html/valida1.php on line 41
+[26-Feb-2022 08:48:19 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/valida1.php on line 47
+[26-Feb-2022 08:48:32 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/valida1.php on line 47
+[26-Feb-2022 08:49:21 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/valida1.php on line 48
+[26-Feb-2022 08:49:28 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/valida1.php on line 48
+[26-Feb-2022 08:49:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/valida1.php on line 48
+[26-Feb-2022 08:52:44 America/Fortaleza] PHP Parse error:  syntax error, unexpected end of file in /home2/acesvc33/public_html/valida1.php on line 43
+[26-Feb-2022 08:53:25 America/Fortaleza] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home2/acesvc33/public_html/valida1.php on line 40
+[27-Feb-2022 14:32:15 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Feb-2022 14:32:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Feb-2022 14:32:55 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Feb-2022 14:35:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
+[27-Feb-2022 14:37:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on boolean in /home2/acesvc33/public_html/recuperar_senha.php:36
+Stack trace:
+#0 {main}
+  thrown in /home2/acesvc33/public_html/recuperar_senha.php on line 36
